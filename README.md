@@ -5,7 +5,8 @@
 <details>
 <summary>2022.02</summary>
 <div markdown="1">
-[https://github.com/kinggoguma/TIL/edit/main/README.md]
+  
+[2022.02](https://github.com/kinggoguma/TIL/tree/main/2022)
 
 </div>
 </details>
@@ -13,6 +14,8 @@
 <details>
 <summary>Git, Github</summary>
 <div markdown="1">
-
+  
+[Git, Github](https://github.com/kinggoguma/TIL/tree/main/Git%2C%20Github)
+  
 </div>
 </details>
