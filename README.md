@@ -6,7 +6,7 @@
 <summary>2022.02</summary>
 <div markdown="1">
   
-[2022.02](https://github.com/kinggoguma/TIL/tree/main/2022)
+[2022.02.14](https://github.com/kinggoguma/TIL/tree/main/2022)
 
 </div>
 </details>
