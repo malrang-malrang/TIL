@@ -1,6 +1,8 @@
 # Today I Learned.
 
 ## 학습내용
+# DispatchQueue의 초기화
+
 ## DispatchQueue의 초기화
 
 >만들어져있는 `DispatchQueue.main` 와`DispatchQueue.global()` 말고도 `DispatchQueue`를 커스텀하여 사용할수 있다.
